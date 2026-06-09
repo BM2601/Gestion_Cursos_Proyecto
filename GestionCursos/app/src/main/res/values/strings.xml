@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sobrevive U</string>
+    <string name="login_title">Bienvenido</string>
+    <string name="login_subtitle">Inicia sesión para continuar</string>
+    <string name="email_hint">Correo electrónico</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="btn_login">Iniciar Sesión</string>
+    <string name="role_alumno">Alumno</string>
+    <string name="role_profesor">Profesor</string>
+    <string name="role_admin">Administrador</string>
+    <string name="mis_cursos">Mis Cursos</string>
+    <string name="buscar_cursos">Buscar Cursos</string>
+    <string name="crear_curso">Crear Curso</string>
+    <string name="editar_curso">Editar Curso</string>
+    <string name="eliminar_curso">Eliminar Curso</string>
+    <string name="subir_material">Subir Material</string>
+    <string name="descargar_pdf">Descargar PDF</string>
+    <string name="alumnos_inscritos">Alumnos Inscritos</string>
+    <string name="gestionar_cursos">Gestionar Cursos</string>
+    <string name="asignar_profesor">Asignar Profesor</string>
+    <string name="activar_desactivar">Activar/Desactivar</string>
+    <string name="sin_cursos">Aún no tienes cursos inscritos</string>
+    <string name="sin_alumnos">Ningún alumno inscrito</string>
+    <string name="confirmar_eliminar">¿Eliminar este curso?</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cerrar_sesion">Cerrar Sesión</string>
+</resources>

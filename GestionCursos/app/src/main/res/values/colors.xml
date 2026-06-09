@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#6C63FF</color>
+    <color name="primary_dark">#5A52D5</color>
+    <color name="accent">#FF6584</color>
+    <color name="background">#F5F6FA</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="text_primary">#2D2D3A</color>
+    <color name="text_secondary">#8A8A9A</color>
+    <color name="success">#43D98F</color>
+    <color name="warning">#FFB74D</color>
+    <color name="danger">#FF5252</color>
+    <color name="white">#FFFFFF</color>
+    <color name="divider">#EEEEEE</color>
+    <color name="alumno_color">#43D98F</color>
+    <color name="profesor_color">#6C63FF</color>
+    <color name="admin_color">#FF6584</color>
+</resources>
