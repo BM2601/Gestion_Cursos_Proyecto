@@ -14,3 +14,5 @@ Para iniciar sesion:
    Email:    alumno@edu.com
    Pass:     alum123
 
+GESTION DE CURSOS ES LOGIN Y GESTION DE CURSOS
+GESTION DE CURSOS BM ES GESTION DE USUARIOS
